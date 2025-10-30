@@ -25,6 +25,7 @@ notepad .env
 pip install -R requirements.txt
 python3 bot.py
 ```
+Note: You don't need to change the redirect uri.
 
 It's that simple!
 
