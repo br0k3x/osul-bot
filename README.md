@@ -4,31 +4,7 @@
 
 An osu! bot based on discord.py.
 ## Running
-Clone the repository with `git clone https://github.com/br0k3x/osul-bot`, configure the .env, and start it.
-Just like this on Linux:
-```
-git clone https://github.com/br0k3x/osul-bot
-cd osul-bot
-cp .env.example .env
-
-nano .env (or use a different text editor)
-pip install -R requirements.txt
-python3 bot.py
-```
-or on Windows:
-```
-git clone https://github.com/br0k3x/osul-bot
-cd osul-bot
-copy .env.example .env
-
-notepad .env
-pip install -R requirements.txt
-python3 bot.py
-```
-Note: You don't need to change the redirect uri.
-
-It's that simple!
-
+Clone the repository with `git clone https://github.com/br0k3x/osul-bot`, configure the .env, install dependencies, start the API server, and start the bot.
 
 ## License
 This project is licensed under the Creative Commons BY-NC-SA 4.0 License.  
