@@ -5,3 +5,7 @@
 
 
 An osu! bot based on discord.py.
+## License
+This project is licensed under the Creative Commons BY-NC-SA 4.0 License.  
+You may use, modify, and share this project, but **commercial use is not allowed**,  
+and attribution to **br0kE (2025)** is required.
